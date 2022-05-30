@@ -1,0 +1,18 @@
+﻿<Maps>
+	<Map>
+		<ID>0</ID>
+		<Name>Remire Outskirts</Name>
+	</Map>
+	<Map>
+		<ID>1</ID>
+		<Name>Monastery Outskirts</Name>
+	</Map>
+	<Map>
+		<ID>2</ID>
+		<Name>Zanado</Name>
+	</Map>
+	<Map>
+		<ID>7</ID>
+		<Name>Gronder Field</Name>
+	</Map>
+</Maps>
