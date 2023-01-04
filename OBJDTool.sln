@@ -3,18 +3,54 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBJDTool", "OBJDTool\OBJDTool.csproj", "{066623DB-479F-4AEC-9583-7D7EF444E949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBJDTool", "OBJDTool\OBJDTool.csproj", "{066623DB-479F-4AEC-9583-7D7EF444E949}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cethleann.Unbundler", "..\..\..\Downloads\Cethleann-main\Cethleann.Unbundler\Cethleann.Unbundler.csproj", "{184785C7-7A32-4978-B725-E6234F3E7819}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cethleann", "..\..\..\Downloads\Cethleann-main\Cethleann\Cethleann.csproj", "{DF4095DF-2440-47A0-BA38-07F09D7649B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cethleann.Structure", "..\..\..\Downloads\Cethleann-main\Cethleann.Structure\Cethleann.Structure.csproj", "{A098E15D-F452-405B-BD6C-37FE52C80BDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{066623DB-479F-4AEC-9583-7D7EF444E949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{066623DB-479F-4AEC-9583-7D7EF444E949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066623DB-479F-4AEC-9583-7D7EF444E949}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{066623DB-479F-4AEC-9583-7D7EF444E949}.Debug|x64.Build.0 = Debug|Any CPU
 		{066623DB-479F-4AEC-9583-7D7EF444E949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{066623DB-479F-4AEC-9583-7D7EF444E949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066623DB-479F-4AEC-9583-7D7EF444E949}.Release|x64.ActiveCfg = Release|Any CPU
+		{066623DB-479F-4AEC-9583-7D7EF444E949}.Release|x64.Build.0 = Release|Any CPU
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Debug|Any CPU.Build.0 = Debug|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Debug|x64.ActiveCfg = Debug|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Debug|x64.Build.0 = Debug|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Release|Any CPU.ActiveCfg = Release|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Release|Any CPU.Build.0 = Release|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Release|x64.ActiveCfg = Release|x64
+		{184785C7-7A32-4978-B725-E6234F3E7819}.Release|x64.Build.0 = Release|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Debug|Any CPU.Build.0 = Debug|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Debug|x64.ActiveCfg = Debug|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Debug|x64.Build.0 = Debug|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Release|Any CPU.ActiveCfg = Release|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Release|Any CPU.Build.0 = Release|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Release|x64.ActiveCfg = Release|x64
+		{DF4095DF-2440-47A0-BA38-07F09D7649B9}.Release|x64.Build.0 = Release|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Debug|Any CPU.Build.0 = Debug|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Debug|x64.ActiveCfg = Debug|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Debug|x64.Build.0 = Debug|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Release|Any CPU.ActiveCfg = Release|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Release|Any CPU.Build.0 = Release|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Release|x64.ActiveCfg = Release|x64
+		{A098E15D-F452-405B-BD6C-37FE52C80BDA}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

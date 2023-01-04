@@ -14,4 +14,8 @@
     <PackageReference Include="WPF-UI" Version="1.2.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\Cethleann-main\Cethleann.Unbundler\Cethleann.Unbundler.csproj" />
+  </ItemGroup>
+
 </Project>
